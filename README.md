@@ -2,7 +2,7 @@ You can view details for a student by visiting _yourhost_/students?id=1. Current
 
 NOTES
 
-- Duw to time constaraints i did not implement prevention for sql injection in StudentDataLoader.
+- Duе to time constraints i did not implement prevention for sql injection in StudentDataLoader.
 - I did not find a good way to split the changes in multiple commits, since they are all connected.
 
 SETUP DB
